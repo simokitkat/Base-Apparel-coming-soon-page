@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/simokitkat/Product-preview-card-component)
-- Live Site URL: [Frontend Mentor | Base Apparel coming soon page](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/simokitkat/Base-Apparel-coming-soon-page)
+- Live Site URL: [Frontend Mentor | Base Apparel coming soon page](https://simokitkat.github.io/Base-Apparel-coming-soon-page)
 
 ## My process
 
